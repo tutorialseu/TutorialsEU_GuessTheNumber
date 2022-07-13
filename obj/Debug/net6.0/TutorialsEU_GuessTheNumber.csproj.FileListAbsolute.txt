@@ -1,0 +1,14 @@
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\bin\Debug\net6.0\TutorialsEU_GuessTheNumber.exe
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\bin\Debug\net6.0\TutorialsEU_GuessTheNumber.deps.json
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\bin\Debug\net6.0\TutorialsEU_GuessTheNumber.runtimeconfig.json
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\bin\Debug\net6.0\TutorialsEU_GuessTheNumber.dll
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\bin\Debug\net6.0\ref\TutorialsEU_GuessTheNumber.dll
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\bin\Debug\net6.0\TutorialsEU_GuessTheNumber.pdb
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\obj\Debug\net6.0\TutorialsEU_GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\obj\Debug\net6.0\TutorialsEU_GuessTheNumber.AssemblyInfoInputs.cache
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\obj\Debug\net6.0\TutorialsEU_GuessTheNumber.AssemblyInfo.cs
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\obj\Debug\net6.0\TutorialsEU_GuessTheNumber.csproj.CoreCompileInputs.cache
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\obj\Debug\net6.0\TutorialsEU_GuessTheNumber.dll
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\obj\Debug\net6.0\ref\TutorialsEU_GuessTheNumber.dll
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\obj\Debug\net6.0\TutorialsEU_GuessTheNumber.pdb
+D:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_GuessTheNumber\obj\Debug\net6.0\TutorialsEU_GuessTheNumber.genruntimeconfig.cache
